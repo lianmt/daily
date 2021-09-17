@@ -13,6 +13,9 @@
 
 5. [《编程大师访谈录 11位》以我的理解，通俗重述](./《编程大师访谈录%2011位》以我的理解，通俗重述.md)
 
+
+6. [动漫，是封建专制松绑后的产物，透露出自由度与创造活力](./动漫，是封建专制松绑后的产物，透露出自由度与创造活力.md)
+
 ![image](https://user-images.githubusercontent.com/20921259/133301562-799916d4-fcb0-4d19-989e-eb359e1fd367.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Weibo](https://weibo.com/u/1962659745)  | [Twitter](https://twitter.com/lian_mt) 
